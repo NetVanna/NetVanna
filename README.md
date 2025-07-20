@@ -31,7 +31,7 @@ I'm a passionate **Full-Stack Developer** from Cambodia 🇰🇭, with a strong 
 ## 📫 Let's Connect
 
 - Email: **netvanna456@gmail.com**
-- Telegram: ![Uploading image.png…]()
+- Telegram: https://t.me/netvanna
 
 ---
 
