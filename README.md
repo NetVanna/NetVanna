@@ -1,39 +1,38 @@
-# Hi there, I'm NetVanna 👋
+# 👋 Hello, I'm Net Vanna
 
-Passionate developer blending backend power with mobile innovation.  
-I craft seamless digital experiences — from scalable Laravel systems to sleek Flutter apps, always exploring code beyond boundaries with Java and Python.
+I'm a passionate **Full-Stack Developer** from Cambodia 🇰🇭, with a strong focus on building modern, scalable web and mobile applications.
 
+## 💻 Tech Stack
+
+- 🔥 **Backend**: Laravel (REST API, Livewire, Sanctum, Jetstream)
+- 📱 **Mobile**: Flutter (Riverpod, Firebase, Material & Cupertino UI)
+- 🌐 **Frontend**: Blade, Tailwind CSS, Bootstrap
+- 🛠️ **Tools & Other Skills**:
+  - MySQL, SQLite
+  - Git & GitHub
+  - RESTful APIs
+  - JSON, AJAX
+  - Firebase Auth & Firestore
+
+## 🚀 What I Build
+
+- Admin panels and dashboards
+- API-first web platforms
+- Cross-platform mobile apps
+- Real-time apps with notifications
+- Authentication & role-based access systems
+
+## 📈 Currently Working On
+
+- 🔧 Full Laravel + Flutter systems for businesses
+- 💼 Admin portals with dynamic forms and file uploads
+- 👨‍⚖️ Law firm management systems (bilingual: Khmer 🇰🇭 & English 🇺🇸)
+
+## 📫 Let's Connect
+
+- Email: **netvanna456@gmail.com**
 ---
 
-## 🚀 What I Do
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
-- **System Development:** Building robust and scalable systems with Laravel.
-- **Mobile Development:** Creating beautiful and functional mobile apps using Flutter.
-- **Tech Explorer:** Enthusiastic about expanding my expertise in Java and Python.
-
----
-
-## 🛠️ Skills
-
-- **Languages & Frameworks:**  
-  ![Laravel](https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 📈 Projects
-
-I love working on innovative projects!  
-*You can showcase your favorite repositories here as you build them.*
-
----
-
-## 📬 Contact
-
-*Social links coming soon…*
-
----
-
-_Always learning, always building. Let’s make something amazing!_
+Thanks for visiting my profile 🙏
