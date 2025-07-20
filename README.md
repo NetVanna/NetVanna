@@ -31,6 +31,8 @@ I'm a passionate **Full-Stack Developer** from Cambodia 🇰🇭, with a strong 
 ## 📫 Let's Connect
 
 - Email: **netvanna456@gmail.com**
+- Telegram: ![Uploading image.png…]()
+
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
