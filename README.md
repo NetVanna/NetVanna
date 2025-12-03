@@ -8,8 +8,8 @@ I'm a passionate **Full-Stack Developer** from Cambodia 🇰🇭, with a strong 
 - 📱 **Mobile**: Flutter (Riverpod, Firebase, Material & Cupertino UI)
 - 🌐 **Frontend**: Blade, Tailwind CSS, Bootstrap
 - 🛠️ **Tools & Other Skills**:
-  - MySQL, SQLite
-  - Git & GitHub
+  - MySQL
+  - GitHub
   - RESTful APIs
   - JSON, AJAX
   - Firebase Auth & Firestore
