@@ -4,8 +4,8 @@ I'm a passionate **Full-Stack Developer** from Cambodia 🇰🇭, with a strong 
 
 ## 💻 Tech Stack
 
-- 🔥 **Backend**: Laravel (REST API, Livewire, Sanctum, Jetstream)
-- 📱 **Mobile**: Flutter (Riverpod, Firebase, Material & Cupertino UI)
+- 🔥 **Backend**: Laravel (REST API, Livewire, Filament, Sanctum, Jetstream)
+- 📱 **Mobile**: Flutter (Provider, Bloc, Firebase, Material & Cupertino UI)
 - 🌐 **Frontend**: Blade, Tailwind CSS, Bootstrap
 - 🛠️ **Tools & Other Skills**:
   - MySQL
@@ -32,6 +32,7 @@ I'm a passionate **Full-Stack Developer** from Cambodia 🇰🇭, with a strong 
 
 - Email: **netvanna456@gmail.com**
 - Telegram: https://t.me/netvanna
+- Website: https://vannanet.com/
 
 ---
 
