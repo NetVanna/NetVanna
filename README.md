@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Net Vanna
+# 👋 Hello, I'm Vanna Net
 
 I'm a passionate **Full-Stack Developer** from Cambodia 🇰🇭, with a strong focus on building modern, scalable web and mobile applications.
 
