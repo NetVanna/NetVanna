@@ -203,11 +203,16 @@ This approach helps turn real business processes into useful digital products.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NetVanna&show_icons=true&theme=radical&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NetVanna&theme=radical" width="100%" alt="GitHub Profile Details"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetVanna&layout=compact&theme=radical&hide_border=true" height="175" alt="Top Languages" />
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NetVanna&theme=radical" height="180" alt="Repositories Per Language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NetVanna&theme=radical" height="180" alt="Most Commit Language"/>
 
 </div>
+
 
 ---
 
